@@ -1,0 +1,7 @@
+ship_id,status,status_order
+1,dikemas,1
+2,dikirim ke ekspedisi,2
+3,menuju daerah tujuan,2
+4,transit,2
+5,dibawa kurir,2
+6,sampai,3
